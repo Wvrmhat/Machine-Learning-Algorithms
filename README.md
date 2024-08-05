@@ -6,6 +6,8 @@
 ### Supervised
 Algorithms trained on labeled datasets. Each trained set is paired with an output label.
 >Used to predict the output of new unseen data
+
+<details>
 Types of **Supervised** algorithms:
 1. Regression:
    + Linear Regression
@@ -28,6 +30,7 @@ Types of **Supervised** algorithms:
    + Does not perform well on unseen data 
 </details>
 
+</details>
    ---
    ### Unsupervised
    >Algorithm receives data without exact instructions, it then finds patterns to analyze and cluster the unlabeled datasets.
