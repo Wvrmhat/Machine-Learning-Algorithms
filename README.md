@@ -6,7 +6,7 @@
 ### Supervised
 Algorithms trained on labeled datasets. Each trained set is paired with an output label.
 >Used to predict the output of new unseen data
-Types of supervised algorithms:
+Types of **Supervised** algorithms:
 1. Regression:
    + Linear Regression
    + Polynomial Regression
@@ -17,7 +17,6 @@ Types of supervised algorithms:
    + Decision Trees
    + Logistic Regression
 >K-Nearest Neighbours is an algorithm that falls under both Regression and Classification, but it is often used more for Classification.
---
 <details>
    <summary>Advantages and Disadvantages</summary>
    ### Advantages
@@ -27,4 +26,19 @@ Types of supervised algorithms:
    + Reguires large amount of data, often hard to obtain
    + Does not perform well on unseen data 
 </details>
+---
+### Unsupervised
+>Algorithm receives data without exact instructions, it then finds patterns to analyze and cluster the unlabeled datasets.
+Types of **Unsupervised** algorithms:
+1. **Clustering:**
+   + K-Means Clustering
+   + Hierarchical Clustering
+   + DBSCAN (Density-Based Spatial Clustering of Applications with Noise)
+   
+2. **Associations:**
+   + Apriori Algorithm
+   + Eclat Algorithm
+     
+3. **Dimensionality Reduction**
+
    
