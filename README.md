@@ -31,7 +31,7 @@ Types of **Supervised** algorithms:
 ---
 ### Unsupervised
 >Algorithm receives data without exact instructions, it then finds patterns to analyze and cluster the unlabeled datasets.
-
+<details>
 Types of **Unsupervised** algorithms:
 1. **Clustering:**
    + K-Means Clustering
@@ -56,5 +56,32 @@ Types of **Unsupervised** algorithms:
    + Hard to evaluate as there are no labels
    + Requires domain knowledge to interpret results
 </details>
+</details>
+---
+### Reinforcment
+Agent learns to make decisions by performing actions and getting feedback from environment.
+> Goal is to learn policies that bring the highest reward over time
+
+Types of **Reinforcment** algorithms:
+1. **Model-Free Methods:
+   + Q-Learning
+   + SARSA (State-Action-Reward-State-Action)
+
+2. **Model-Based Methods**
+   + Dynamic Programming
+   + Monte Carlo Methods
+
+<Details>
+   <summary>Advantages and Disadvantages</summary>
+
+   ### Advantages
+   + Handles complex, multi-dimensional environments
+   + Learns through trial and error
+   ### Disadvantages
+   + Requires a lot of data and computation power
+   + Can be hard to tune/debeug
+</Details>
+
+---
 
    
