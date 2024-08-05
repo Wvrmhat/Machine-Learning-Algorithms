@@ -41,7 +41,8 @@ Algorithms trained on labeled datasets. Each trained set is paired with an outpu
 
 <details>
    
-   <summary> Types of **Unsupervised** algorithms </summary>
+   <summary> Types of Unsupervised algorithms </summary>
+   
    1. **Clustering:**
       + K-Means Clustering
       + Hierarchical Clustering
@@ -74,8 +75,9 @@ Agent learns to make decisions by performing actions and getting feedback from e
 > Goal is to learn policies that bring the highest reward over time
 
 <details>
-Types of **Reinforcment** algorithms:
-1. **Model-Free Methods:
+   <summary>Types of Reinforcment algorithms</summary>
+
+1. **Model-Free Methods**
    + Q-Learning
    + SARSA (State-Action-Reward-State-Action)
 
