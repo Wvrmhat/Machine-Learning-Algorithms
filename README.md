@@ -19,6 +19,7 @@ Types of **Supervised** algorithms:
 >K-Nearest Neighbours is an algorithm that falls under both Regression and Classification, but it is often used more for Classification.
 <details>
    <summary>Advantages and Disadvantages</summary>
+   
    ### Advantages
    + Highly accurate with enough labeled data
    + Clear results
@@ -47,6 +48,7 @@ Types of **Unsupervised** algorithms:
 
 <details>
    <summary>Advantages and Disadvantages</summary>
+   
    ### Advantages
    + Works with unlabled data, which is easier to gather
    + Useful for finding general patterns in data
