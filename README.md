@@ -27,6 +27,7 @@ Types of **Supervised** algorithms:
    + Does not perform well on unseen data 
 </details>
 ---
+
 ### Unsupervised
 >Algorithm receives data without exact instructions, it then finds patterns to analyze and cluster the unlabeled datasets.
 
