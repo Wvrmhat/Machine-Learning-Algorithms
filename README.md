@@ -17,7 +17,7 @@ Types of supervised algorithms:
    + Decision Trees
    + Logistic Regression
 >K-Nearest Neighbours is an algorithm that falls under both Regression and Classification, but it is often used more for Classification.
----
+--
 <details>
    <summary>Advantages and Disadvantages</summary>
    ### Advantages
