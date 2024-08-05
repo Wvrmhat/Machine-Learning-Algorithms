@@ -16,7 +16,7 @@ Types of **Supervised** algorithms:
    + Neural Networks
    + Decision Trees
    + Logistic Regression
->[K-Nearest Neighbours](supervised/KNN) is an algorithm that falls under both Regression and Classification, but it is often used more for Classification.
+>[K-Nearest Neighbours](Supervised/KNN) is an algorithm that falls under both Regression and Classification, but it is often used more for Classification.
 <details>
    <summary>Advantages and Disadvantages</summary>
    
