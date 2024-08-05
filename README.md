@@ -48,16 +48,16 @@ Types of **Supervised** algorithms:
       + PCA (Principal Component Analysis)
       + t-SNE (t-Distributed Stochastic Neighbor Embedding)
 
-        <details>
-      <summary>Advantages and Disadvantages</summary>
+<details>
+   <summary>Advantages and Disadvantages</summary>
 
-       ### Advantages
-      + Works with unlabled data, which is easier to gather
-      + Useful for finding general patterns in data
-      ### Disadvantages
-      + Hard to evaluate as there are no labels
-      + Requires domain knowledge to interpret results  
-   </details>   
+ ### Advantages
+   + Works with unlabled data, which is easier to gather
+   + Useful for finding general patterns in data
+  ### Disadvantages
+   + Hard to evaluate as there are no labels
+   + Requires domain knowledge to interpret results  
+ </details>   
   
 </details>
 
