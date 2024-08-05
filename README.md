@@ -45,20 +45,21 @@ Types of **Supervised** algorithms:
    3. **Dimensionality Reduction**
       + PCA (Principal Component Analysis)
       + t-SNE (t-Distributed Stochastic Neighbor Embedding)
-   
-   <details>
+
+        <details>
       <summary>Advantages and Disadvantages</summary>
-      
-      ### Advantages
+
+       ### Advantages
       + Works with unlabled data, which is easier to gather
       + Useful for finding general patterns in data
       ### Disadvantages
       + Hard to evaluate as there are no labels
-      + Requires domain knowledge to interpret results
-   </details>
+      + Requires domain knowledge to interpret results  
+   </details>   
+  
 </details>
----
 
+---
 ### Reinforcment
 Agent learns to make decisions by performing actions and getting feedback from environment.
 > Goal is to learn policies that bring the highest reward over time
