@@ -28,34 +28,34 @@ Types of **Supervised** algorithms:
    + Does not perform well on unseen data 
 </details>
 
----
-### Unsupervised
->Algorithm receives data without exact instructions, it then finds patterns to analyze and cluster the unlabeled datasets.
-<details>
-Types of **Unsupervised** algorithms:
-1. **Clustering:**
-   + K-Means Clustering
-   + Hierarchical Clustering
-   + DBSCAN (Density-Based Spatial Clustering of Applications with Noise)
+   ---
+   ### Unsupervised
+   >Algorithm receives data without exact instructions, it then finds patterns to analyze and cluster the unlabeled datasets.
+   <details>
+   Types of **Unsupervised** algorithms:
+   1. **Clustering:**
+      + K-Means Clustering
+      + Hierarchical Clustering
+      + DBSCAN (Density-Based Spatial Clustering of Applications with Noise)
+      
+   2. **Associations:**
+      + Apriori Algorithm
+      + Eclat Algorithm
+        
+   3. **Dimensionality Reduction**
+      + PCA (Principal Component Analysis)
+      + t-SNE (t-Distributed Stochastic Neighbor Embedding)
    
-2. **Associations:**
-   + Apriori Algorithm
-   + Eclat Algorithm
-     
-3. **Dimensionality Reduction**
-   + PCA (Principal Component Analysis)
-   + t-SNE (t-Distributed Stochastic Neighbor Embedding)
-
-<details>
-   <summary>Advantages and Disadvantages</summary>
-   
-   ### Advantages
-   + Works with unlabled data, which is easier to gather
-   + Useful for finding general patterns in data
-   ### Disadvantages
-   + Hard to evaluate as there are no labels
-   + Requires domain knowledge to interpret results
-</details>
+   <details>
+      <summary>Advantages and Disadvantages</summary>
+      
+      ### Advantages
+      + Works with unlabled data, which is easier to gather
+      + Useful for finding general patterns in data
+      ### Disadvantages
+      + Hard to evaluate as there are no labels
+      + Requires domain knowledge to interpret results
+   </details>
 </details>
 ---
 ### Reinforcment
