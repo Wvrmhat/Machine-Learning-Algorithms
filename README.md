@@ -8,7 +8,8 @@ Algorithms trained on labeled datasets. Each trained set is paired with an outpu
 >Used to predict the output of new unseen data
 
 <details>
-   <summary>Types of **Supervised** algorithms</summary>
+   
+   Types of **Supervised** algorithms
    
 1. Regression:
    + Linear Regression
@@ -21,6 +22,7 @@ Algorithms trained on labeled datasets. Each trained set is paired with an outpu
    + Logistic Regression
 >[K-Nearest Neighbours](Supervised/KNN) is an algorithm that falls under both Regression and Classification, but it is often used more for Classification.
 <details>
+   
    <summary>Advantages and Disadvantages</summary>
    
    ### Advantages
@@ -93,6 +95,7 @@ Types of **Reinforcment** algorithms:
 </Details>
 
 </details>
+
 ---
 
    
