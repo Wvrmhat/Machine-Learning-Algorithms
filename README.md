@@ -29,6 +29,7 @@ Types of **Supervised** algorithms:
 ---
 ### Unsupervised
 >Algorithm receives data without exact instructions, it then finds patterns to analyze and cluster the unlabeled datasets.
+
 Types of **Unsupervised** algorithms:
 1. **Clustering:**
    + K-Means Clustering
