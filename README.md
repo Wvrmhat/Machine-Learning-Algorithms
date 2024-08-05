@@ -26,8 +26,8 @@ Types of **Supervised** algorithms:
    + Reguires large amount of data, often hard to obtain
    + Does not perform well on unseen data 
 </details>
----
 
+---
 ### Unsupervised
 >Algorithm receives data without exact instructions, it then finds patterns to analyze and cluster the unlabeled datasets.
 
@@ -42,5 +42,17 @@ Types of **Unsupervised** algorithms:
    + Eclat Algorithm
      
 3. **Dimensionality Reduction**
+   + PCA (Principal Component Analysis)
+   + t-SNE (t-Distributed Stochastic Neighbor Embedding)
+
+<details>
+   <summary>Advantages and Disadvantages</summary>
+   ### Advantages
+   + Works with unlabled data, which is easier to gather
+   + Useful for finding general patterns in data
+   ### Disadvantages
+   + Hard to evaluate as there are no labels
+   + Requires domain knowledge to interpret results
+</details>
 
    
