@@ -8,7 +8,8 @@ Algorithms trained on labeled datasets. Each trained set is paired with an outpu
 >Used to predict the output of new unseen data
 
 <details>
-Types of **Supervised** algorithms:
+   <summary>Types of **Supervised** algorithms</summary>
+   
 1. Regression:
    + Linear Regression
    + Polynomial Regression
@@ -38,7 +39,7 @@ Types of **Supervised** algorithms:
 
 <details>
    
-   Types of **Unsupervised** algorithms:
+   <summary> Types of **Unsupervised** algorithms </summary>
    1. **Clustering:**
       + K-Means Clustering
       + Hierarchical Clustering
