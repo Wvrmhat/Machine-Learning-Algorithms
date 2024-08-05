@@ -58,6 +58,7 @@ Types of **Supervised** algorithms:
    </details>
 </details>
 ---
+
 ### Reinforcment
 Agent learns to make decisions by performing actions and getting feedback from environment.
 > Goal is to learn policies that bring the highest reward over time
