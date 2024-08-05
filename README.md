@@ -31,6 +31,7 @@ Types of **Supervised** algorithms:
 </details>
 
 </details>
+
    ---
    ### Unsupervised
    >Algorithm receives data without exact instructions, it then finds patterns to analyze and cluster the unlabeled datasets.
@@ -69,6 +70,7 @@ Types of **Supervised** algorithms:
 Agent learns to make decisions by performing actions and getting feedback from environment.
 > Goal is to learn policies that bring the highest reward over time
 
+<details>
 Types of **Reinforcment** algorithms:
 1. **Model-Free Methods:
    + Q-Learning
@@ -89,6 +91,7 @@ Types of **Reinforcment** algorithms:
    + Can be hard to tune/debeug
 </Details>
 
+</details>
 ---
 
    
