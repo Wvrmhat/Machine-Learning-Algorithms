@@ -24,6 +24,10 @@ Take all our labels and attributes, and we split them up into 4 arrays. We use t
 ```
 x_train, x_test, y_train, y_test = sklearn.model_selection.train_test_split(X, y, test_size = 0.1)
 ```
+We create a classification model that implements the KNN algorthim. A hyperparameter is specified for our model to consider when making a decision. In the example it looks at 9 nearest neighbors to determine the class of a new data point
+```
+model = KNeighborsClassifier(n_neighbors=9)
+```
 
 We then fit the model to a line of best-fit. Which allows us to return a value that represents the accuracy. Our model is then used to predict based off the test data.
 ```
