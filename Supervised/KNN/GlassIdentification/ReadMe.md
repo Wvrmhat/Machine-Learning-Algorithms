@@ -34,7 +34,7 @@ We can then check the predictions, input data, and actual value by looping throu
 ```
 for x in range(len(predicted)):
      prints out predicted, the input data, and the actual value
-    print(predicted[x], x_test[x], y_test[x])
+     print(predicted[x], x_test[x], y_test[x])
 ```
 
 ---
