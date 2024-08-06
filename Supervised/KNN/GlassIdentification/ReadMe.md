@@ -31,6 +31,7 @@ model = KNeighborsClassifier(n_neighbors=9)
 
 We then fit the model to a line of best-fit. Which allows us to return a value that represents the accuracy. Our model is then used to predict based off the test data.
 ```
+model.fit(x_train, y_train)
 predicted = model.predict(x_test)
 ```
 
