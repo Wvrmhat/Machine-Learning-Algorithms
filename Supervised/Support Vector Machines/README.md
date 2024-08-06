@@ -25,6 +25,6 @@ Turns data into a form where we can draw an accurate hyperplane. A kernal is fun
  + By generating a third point, we can divide our data and draw a hyperplane
  + We add a dimension, to allow more accurate classification
 > If there is still no way to draw a hyperplane then we reapeat the process and add another 4th dimension with the function
-
 An example of a kernal is (x1)^2 + (x2)^2 = x3
+
 ---
