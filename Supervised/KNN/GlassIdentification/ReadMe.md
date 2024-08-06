@@ -40,7 +40,6 @@ for x in range(len(predicted)):
 ---
 > [!WARNING]
 > To run the file you will need to install the libraries in the requirements.txt file.
-
-> pip install -r requirements.txt
+     > pip install -r requirements.txt
 
 
