@@ -100,4 +100,7 @@ Agent learns to make decisions by performing actions and getting feedback from e
 
 ---
 
+> [!IMPORTANT]
+> To read more about the example in root directory, have a look at [GlassIdentification](Supervised/KNN/GlassIdentification).
+
    
