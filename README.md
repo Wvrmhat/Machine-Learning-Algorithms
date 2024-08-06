@@ -9,7 +9,7 @@ Algorithms trained on labeled datasets. Each trained set is paired with an outpu
 
 <details>
    
-   Types of **Supervised** algorithms
+  <summary> Types of Supervised algorithms </summary>
    
 1. Regression:
    + Linear Regression
