@@ -19,3 +19,12 @@ The margin is the area where there are no other points. We want the distance to 
 > Hard margin is when points don't exist within the margin
 ---
 
+## Kernals (3 Dimensional)
+
+Turns data into a form where we can draw an accurate hyperplane. A kernal is function that take input **f(x1, x2)** and outputs **x3** (a higher dimension/coordinate).
+ + By generating a third point, we can divide our data and draw a hyperplane
+ + We add a dimension, to allow more accurate classification
+> If there is still no way to draw a hyperplane then we reapeat the process and add another 4th dimension with the function
+
+An example of a kernal is (x1)^2 + (x2)^2 = x3
+---
