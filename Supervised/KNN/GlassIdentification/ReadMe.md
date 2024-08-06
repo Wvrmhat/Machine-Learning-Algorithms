@@ -9,6 +9,7 @@ data = pd.read_csv("glass.data")
 
 We then predict from the classificat label and return a new dataframe
 > pandas uses keywords, "(columns = [predict])" is the same as "([predict], axis = 1"
+
 > If axis = 0 then we drop rows
 > data.drop takes a column or row of of the array of attributes
 ```
