@@ -14,5 +14,5 @@ However we usually have multiple attributes, meaning we plot in 3-Dimensions
 If K is too high/too many values, it increases the range and reduces accuracy
 
 > [!NOTE]
-> Saving the model is very computation heavy especiall with many datapoints
+> Saving the model is very computation heavy especially with many datapoints
 
