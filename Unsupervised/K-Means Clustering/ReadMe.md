@@ -1,4 +1,5 @@
 # K Means Clustering
+
 K means how many clusters
 Centroids determine which datapoint belongs to a specific cluster
 ---
